@@ -1,0 +1,10 @@
+lib
+log
+doc
+dist
+bin
+.classpath
+.settings
+.project
+boot.jar
+red5.jar
